@@ -1,1 +1,1 @@
-This project is a personal portfolio webpage built using HTML to present professional skills and experiences. It uses structured HTML tags to organize the content, including a header with navigation, an introductory hero section, project highlights in a table format, and a footer with contact details. The portfolio serves as a digital resume to showcase work and achievements to potential clients or employers.
+
